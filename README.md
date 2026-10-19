@@ -1,1 +1,1 @@
-I debug therefore I am.
+"I pong, therefore I am"
